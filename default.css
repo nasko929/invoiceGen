@@ -1,0 +1,15 @@
+body
+{
+	background-image: url('pics/background.svg');
+	background-size: cover;
+}
+
+div
+{
+	margin:5%;
+}
+
+div.mainpart {
+	padding:20px;
+	background-color:#FFDAB9;
+}
