@@ -13,3 +13,6 @@ div.mainpart {
 	padding:20px;
 	background-color:#FFDAB9;
 }
+div.logout_button {
+	float: right;
+}
